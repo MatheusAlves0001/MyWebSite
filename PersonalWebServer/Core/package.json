@@ -1,0 +1,11 @@
+{
+  "name": "personalwebserver",
+  "version": "1.0.0",
+  "description": "This is my personal web site to pub my works and my articles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Alves Paulino",
+  "license": "ISC"
+}
